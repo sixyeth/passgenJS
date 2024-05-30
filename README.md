@@ -3,4 +3,4 @@
 # Password Generator in JavaScript.
 ### A password generator in JavaScript that I made in the first months of studies.
 
-## [CLICK TO SEE](https://passgenjs-6yth.vercel.app/)
+## [CLICK TO SEE](https://pwgenerator6yth.vercel.app/)
